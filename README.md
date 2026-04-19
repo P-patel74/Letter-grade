@@ -1,2 +1,2 @@
 # Letter-grade
-A JavaScript grade calculator that converts percentages into letter grades and calculates a final course average.
+This project is a JavaScript grade calculator that takes marks from multiple assignments and assessments, calculates the overall course average, and assigns a letter grade to each mark. The program uses a function to determine letter grades based on percentage ranges and displays both individual results and the final course grade. It demonstrates the use of functions, conditionals, variables, and DOM manipulation to create an interactive grading tool.

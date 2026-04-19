@@ -1,0 +1,14 @@
+#output {
+  font-size: 40px;
+}
+
+body {
+  margin: auto;
+  padding-left: 50px;
+}
+
+button {
+  background-color: rgb(255, 242, 61);
+  width: 200px;
+  height: 25px;
+}
